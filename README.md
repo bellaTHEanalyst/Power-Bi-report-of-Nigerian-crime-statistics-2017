@@ -4,4 +4,4 @@
 
 I’m Isabella Martins, and I’m excited to share some insights I discovered about Nigeria’s crime statistics in 2017.
 
-!
+![](
