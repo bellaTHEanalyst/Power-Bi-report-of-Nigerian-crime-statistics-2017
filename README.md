@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I’m Isabella Martins, and I’m excited to share some insights I discovered about Nigeria’s crime statistics in 2017.
+I’m Isabella Martins, and I’m excited to share some insights I discovered about Nigeria’s crime statistics in  year 2017.
 
 ![](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017/blob/main/crime.jpg)
 
