@@ -20,16 +20,22 @@ I’m Isabella Martins, and I’m excited to share some insights I discovered ab
 - 	## Analysis 3
 - 	Any other drive-data insights offences by subcategory in Geo political zones?
 
- ## Data Source
+## Data Source
+
 National Bureau of Statistics, Nigeria.
+
 It contains 2 tables/sheets:
+
 Offence table with 4 columns and 1220 rows
+
 State dim table with 2 columns and 37 rows
 
 ## Data transformation and cleaning
+
 Data was efficiently cleaned with the power query editor of PowerBi.
 
-Data Modelling.
+## Data Modelling.
+
 PowerBi automatically connected related tables.
 
 ![](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017/blob/main/crime%20statistics%20model.jpg)
@@ -39,6 +45,7 @@ PowerBi automatically connected related tables.
 -  Crime is an illegal act for which someone can be punished by the government, in a simple language it is an act that is unlawful, and such unlawful act is punishable by a government or an authority.
 
 - Criminal statistics are based on notifiable (triable by jury) recorded offences, and can be drawn from aggregate data recorded by official agencies such as the police and courts, but also from criminological research studies.
+- 
 - crime statistic is useful for understanding macro crime patterns. For comparison with previous years to discover trends in crime. To look at the police clear-up rate to measure police efficiency. To show where the police should concentrate resources to reduce crime.
 
 ## Analysis 1
@@ -48,6 +55,7 @@ I created a report  to answer the problem statement and i inserted slicer which 
 ![](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017/blob/main/crime%20analysis%201.jpg)
 
 - South West has the highest offence rate by offence category
+- 
 - The visual above shows the rate of offence by offence category in each geopolitical zone
 
 ## Analysis 2
@@ -61,17 +69,17 @@ I created a report  to answer the problem statement and i inserted slicer which 
  
  - States that recorded the highest rate of offences against lawful authorities are as follows:
  
-- In NW Kano recorded the highest and Kaduna jos the Lowest,
+- In NW Kano state recorded the highest and Kaduna state  the Lowest,
 
-- In NE Yobe recorded the highest and Borno the lowest,
+- In NE Yobe  state recorded the highest and Borno  state the lowest,
 
-- In NC Niver recorded the highest and plateau the lowest,
+- In NC Niger state recorded the highest and plateau  state the lowest,
 
-- In SE Anambra recorded the highest and Imo the lowest,
+- In SE Anambra state recorded the highest and Imo state the lowest,
 
-- In SS Delta recorded the highest and crossover the lowest, rivers state had no record,
+- In SS Delta state recorded the highest and crossriver state the lowest, rivers state had no record,
 
-- In SW Lagos recorded the highest and Oyo the lowest , Ekiti had no record.
+- In SW Lagos state recorded the highest and Oyo  state the lowest , Ekiti state had no record.
  
  ## Analysis 3
 
