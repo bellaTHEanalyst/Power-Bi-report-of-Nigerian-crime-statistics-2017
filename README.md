@@ -65,7 +65,7 @@ I created a report  to answer the problem statement and i inserted slicer which 
  ![](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017/blob/main/crime%20upload.jpg)
  
  
- [click here to live report](https://app.powerbi.com/view?r=eyJrIjoiNGFmYWEyZGEtZjY3YS00YzdhLWE1MjMtNWI4MmJlYmE4ZTYyIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
+ [click here to view live report](https://app.powerbi.com/view?r=eyJrIjoiNGFmYWEyZGEtZjY3YS00YzdhLWE1MjMtNWI4MmJlYmE4ZTYyIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
  
  - States that recorded the highest rate of offences against lawful authorities are as follows:
  
@@ -88,7 +88,7 @@ I created a report  to answer the problem statement and i inserted slicer which 
  ![](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017/blob/main/crime%20subcategories.jpg)
  
  
- [click here interact with report](https://app.powerbi.com/view?r=eyJrIjoiNGFmYWEyZGEtZjY3YS00YzdhLWE1MjMtNWI4MmJlYmE4ZTYyIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
+ [click here to interact with report](https://app.powerbi.com/view?r=eyJrIjoiNGFmYWEyZGEtZjY3YS00YzdhLWE1MjMtNWI4MmJlYmE4ZTYyIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
  
 ## Reccomendations
 
